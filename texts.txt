@@ -1,0 +1,6 @@
+- RFC 2616
+- RFC 707
+- Roy Fielding - REST paper
+- The Psychology of Computer Programming
+- Programming Peals
+- Masters of Doom

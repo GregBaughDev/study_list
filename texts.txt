@@ -4,3 +4,5 @@
 - The Psychology of Computer Programming
 - Programming Peals
 - Masters of Doom
+- Steve Vinoski's articles on RPC
+- Pete McBreen - Software Craftmanship

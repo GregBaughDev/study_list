@@ -6,3 +6,12 @@
 - Masters of Doom
 - Steve Vinoski's articles on RPC
 - Pete McBreen - Software Craftmanship
+- Proving Ground - Kathy Kleiman
+- Designing Data Insensitive Applications - Martin Kleppmann
+- System Design Interview - Alex Xu
+- System Analysis and Design - Dennis, Wixom and Wroth
+- Modern Systems Analysis and Design - Valacich and George
+- System Analysis and Design - Tilley
+- Head First Design Patterns
+- Cracking the Coding Interview
+

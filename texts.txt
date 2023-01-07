@@ -14,4 +14,7 @@
 - System Analysis and Design - Tilley
 - Head First Design Patterns
 - Cracking the Coding Interview
+- https://htdp.org/2022-8-7/Book/index.html
+- https://teachyourselfcs.com/
+- https://github.com/ossu/computer-science
 

@@ -10,7 +10,8 @@ An attempt to consolidate all the links/resources etc for courses I'd like to do
 - [Create Linux device drivers](https://www.freecodecamp.org/news/how-to-create-linux-device-drivers/)
 - [OS's in depth course](https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/)
 - [FCC DSA course](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-2/)
-
+- [Little book of OS development](https://littleosbook.github.io/)
+- [Intro to Embedded Systems Youtube](https://www.youtube.com/playlist?list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm)
 
 ## Resource
 - [Project based learning list](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python)
